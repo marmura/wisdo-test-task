@@ -29,7 +29,7 @@ POST /community/:id/join \
 POST /user \
 POST /post \
 POST /post/:id/like \
-GET  /post/community/:id/feed \
+GET  /post/community/:id/feed
 
 ### Default watchlist
 
