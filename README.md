@@ -36,7 +36,7 @@ to access to authorized endpoints need to set header 'userId' from existing user
 
 Postman collection example:
 
-https://api.postman.com/collections/91575-e6299c8d-e9b8-415f-88ef-03f3d762b5ac?access_key=PMAT-01GSFFHCK95KPSXQCPA94E4NK9
+[https://api.postman.com/collections/91575-e6299c8d-e9b8-415f-88ef-03f3d762b5ac?access_key=PMAT-01GSFFHCK95KPSXQCPA94E4NK9](https://www.postman.com/charge-api/workspace/test-wspace/collection/91575-e6299c8d-e9b8-415f-88ef-03f3d762b5ac?ctx=documentation)
 
 ### Default watchlist
 
